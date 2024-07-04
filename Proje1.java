@@ -4,8 +4,9 @@
  * kaç kez geçtiğini bulan program
  * @assignment 1.proje
  * @date 03.12.2021
- * @author Zeynep Nursena Kütük - zeynepnursena.kutuk@stu.fsm.edu.tr
+ * @author Zeynep Nursena Kütük 
  */
+
 package proje1;
 
 import java.util.Scanner;
