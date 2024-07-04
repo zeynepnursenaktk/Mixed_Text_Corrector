@@ -2,8 +2,6 @@
  * @file Proje1
  * @description Karışık olarak verilen metni düzeltip, sözlükteki kelimelerin
  * kaç kez geçtiğini bulan program
- * @assignment 1.proje
- * @date 03.12.2021
  * @author Zeynep Nursena Kütük 
  */
 
