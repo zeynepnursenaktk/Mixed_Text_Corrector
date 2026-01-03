@@ -1,4 +1,4 @@
-# Proje1 – Metin Düzeltme ve Sözcük Sayma Programı
+# Metin Düzeltme ve Sözcük Sayma Programı
 
 Bu proje, karışık olarak verilen bir metni sözlük yardımıyla düzelten
 ve sözlükteki kelimelerin metinde kaç kez geçtiğini bulan bir Java programıdır.
