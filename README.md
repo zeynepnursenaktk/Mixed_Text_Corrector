@@ -1,7 +1,7 @@
-# Metin Düzeltme ve Sözcük Sayma Programı
+# Text Corrector (Java)
 
-Bu proje, karışık olarak verilen bir metni sözlük yardımıyla düzelten
-ve sözlükteki kelimelerin metinde kaç kez geçtiğini bulan bir Java programıdır.
+Java ile geliştirilmiş, karışık metni sözlük yardımıyla düzelten
+ve kelime tekrarlarını hesaplayan program.
 
 ## Kullanılan Teknolojiler
 - Java
